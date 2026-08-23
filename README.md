@@ -19,6 +19,14 @@ O projeto reúne em uma única solução:
 > O código da aplicação está dividido entre os repositórios de frontend, backend e automação.
 
 ---
+## Demonstração completa
+
+Quer conhecer todos os módulos da plataforma?
+
+➡️ **[Ver demonstração completa do Centraliza](docs/DEMO.md)**
+
+A demonstração apresenta Call Backs, Lembretes, Remanejamentos, busca integrada, automação, administração, auditoria, documentos, temas claro/escuro e a API documentada com Swagger.
+---
 
 # Visão geral
 
