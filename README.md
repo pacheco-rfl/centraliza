@@ -194,7 +194,7 @@ Recursos disponíveis:
 * documentos anexados;
 * visualização de PDF.
 
-![Painel de Call Backs](docs/screenshots/callback.png)
+![Painel de Call Backs](docs/screenshots/callback-panel.png)
 
 ---
 
@@ -645,7 +645,7 @@ A execução completa do Selenium é validada localmente.
 
 ## Call Backs
 
-![Call Back](docs/screenshots/callback.png)
+![Call Back](docs/screenshots/callback-panel.png)
 
 ---
 
