@@ -1075,6 +1075,13 @@ https://github.com/pacheco-rfl/centraliza-portfolio-automation
 
 ---
 
+## Direitos Autorais
+
+Copyright © 2026 Rafael Pacheco. Todos os direitos reservados.
+
+Este projeto está disponível publicamente apenas para fins de portfólio, avaliação profissional e estudo.
+
+Não é permitida a cópia, reprodução, modificação, distribuição ou utilização deste código, total ou parcialmente, sem autorização prévia e expressa do autor.
 # Autor
 
 **Rafael Pacheco**
