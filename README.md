@@ -1075,6 +1075,12 @@ https://github.com/pacheco-rfl/centraliza-portfolio-automation
 
 ---
 
+# Autor
+
+**Rafael Pacheco**
+
+Projeto desenvolvido para demonstração de conhecimentos em desenvolvimento Full Stack, arquitetura de software, integração de sistemas e automação.
+
 ## Direitos Autorais
 
 Copyright © 2026 Rafael Pacheco. Todos os direitos reservados.
@@ -1082,8 +1088,7 @@ Copyright © 2026 Rafael Pacheco. Todos os direitos reservados.
 Este projeto está disponível publicamente apenas para fins de portfólio, avaliação profissional e estudo.
 
 Não é permitida a cópia, reprodução, modificação, distribuição ou utilização deste código, total ou parcialmente, sem autorização prévia e expressa do autor.
-# Autor
 
-**Rafael Pacheco**
+## Créditos
 
-Projeto desenvolvido para demonstração de conhecimentos em desenvolvimento Full Stack, arquitetura de software, integração de sistemas e automação.
+A ideia inicial do Centraliza foi discutida com Gabriel Henrique Lambiasi, que também contribuiu com um protótipo inicial da interface. O desenvolvimento da aplicação, incluindo back-end, front-end, banco de dados, segurança, testes, documentação e automação, foi realizado por Rafael Pacheco.
