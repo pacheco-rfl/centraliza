@@ -20,9 +20,8 @@ O Centraliza reúne em uma única aplicação:
 - cargos e permissões;
 - auditoria;
 - documentos;
-- automação integrada com Python e Selenium.
-
-# Demonstração completa do Centraliza
+- automação integrada com Python e Selenium;
+- Análise Operacional com IA.
 
 ## 1. Autenticação / Login
 
@@ -40,7 +39,17 @@ O Dashboard concentra indicadores dos principais fluxos operacionais.
 
 ---
 
-## 3. Call Backs
+## 3. Análise Operacional com IA
+
+![Análise Operacional com IA](screenshots/análise-IA.png)
+
+A seção interpreta métricas agregadas já calculadas pelo backend e apresenta resumo operacional, pontos de atenção e próximas ações. A análise é atualizada por ação do usuário e funciona como apoio à operação.
+
+O screenshot utiliza somente dados demonstrativos e mantém visíveis a visão operacional e o conteúdo completo da análise, sem expor ferramentas de desenvolvimento, credenciais ou informações sensíveis.
+
+---
+
+## 4. Call Backs
 
 ### Painel
 
@@ -56,7 +65,7 @@ O Dashboard concentra indicadores dos principais fluxos operacionais.
 
 ---
 
-## 4. Lembretes
+## 5. Lembretes
 
 ![Lembretes](screenshots/reminders.png)
 
@@ -74,7 +83,7 @@ O Dashboard concentra indicadores dos principais fluxos operacionais.
 
 ---
 
-## 5. Remanejamentos
+## 6. Remanejamentos
 
 ![Remanejamentos](screenshots/rescheduling.png)
 
@@ -92,13 +101,13 @@ O Dashboard concentra indicadores dos principais fluxos operacionais.
 
 ---
 
-## 6. Busca integrada
+## 7. Busca integrada
 
 ![Busca](screenshots/patient-search.png)
 
 ---
 
-## 7. Automação
+## 8. Automação
 
 ### Em execução
 
@@ -114,7 +123,7 @@ O Dashboard concentra indicadores dos principais fluxos operacionais.
 
 ---
 
-## 8. Administração
+## 9. Administração
 
 ### Usuários
 
@@ -130,7 +139,7 @@ O Dashboard concentra indicadores dos principais fluxos operacionais.
 
 ---
 
-## 9. Fluxo completo da automação
+## 10. Fluxo completo da automação
 
 A automação é iniciada diretamente pela interface do Centraliza.
 
@@ -164,7 +173,7 @@ sequenceDiagram
 
 ---
 
-## 9. Tema claro e escuro
+## 11. Tema claro e escuro
 
 O Centraliza possui suporte a diferentes temas de interface.
 
@@ -182,7 +191,7 @@ A preferência visual pode ser alterada sem modificar as funcionalidades ou perm
 
 ---
 
-## 10. API e Swagger
+## 12. API e Swagger
 
 A **Centraliza API** possui documentação OpenAPI/Swagger para visualização dos endpoints disponíveis e das operações oferecidas pelo backend.
 
@@ -274,7 +283,7 @@ Também estão disponíveis endpoints para:
 > Os endpoints protegidos exigem autenticação e autorização de acordo com as permissões do usuário.
 ---
 
-## 11. O que existe por trás da interface
+## 13. O que existe por trás da interface
 
 A demonstração apresentada nesta página utiliza uma arquitetura composta por três aplicações independentes:
 
@@ -289,6 +298,7 @@ O projeto também utiliza:
 - auditoria de operações;
 - Flyway para versionamento do banco;
 - testes automatizados no backend;
+- OpenAI Responses API com Structured Outputs;
 - JaCoCo para cobertura;
 - GitHub Actions;
 - criptografia de credenciais da automação;

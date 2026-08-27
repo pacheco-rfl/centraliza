@@ -13,7 +13,8 @@ O projeto reúne em uma única solução:
 * auditoria;
 * documentos PDF;
 * automação de navegador;
-* acompanhamento de execuções em tempo real.
+* acompanhamento de execuções em tempo real;
+* análise operacional com apoio de IA.
 
 > Este repositório funciona como a página principal do projeto.
 > O código da aplicação está dividido entre os repositórios de frontend, backend e automação.
@@ -194,7 +195,7 @@ Recursos disponíveis:
 * documentos anexados;
 * visualização de PDF.
 
-![Painel de Call Backs](docs/screenshots/callback-panel.png)
+![Painel de Call Backs](docs/screenshots/callback.png)
 
 ---
 
@@ -645,7 +646,7 @@ A execução completa do Selenium é validada localmente.
 
 ## Call Backs
 
-![Call Back](docs/screenshots/callback-panel.png)
+![Call Back](docs/screenshots/callback.png)
 
 ---
 
@@ -1080,15 +1081,3 @@ https://github.com/pacheco-rfl/centraliza-portfolio-automation
 **Rafael Pacheco**
 
 Projeto desenvolvido para demonstração de conhecimentos em desenvolvimento Full Stack, arquitetura de software, integração de sistemas e automação.
-
-## Direitos Autorais
-
-Copyright © 2026 Rafael Pacheco. Todos os direitos reservados.
-
-Este projeto está disponível publicamente apenas para fins de portfólio, avaliação profissional e estudo.
-
-Não é permitida a cópia, reprodução, modificação, distribuição ou utilização deste código, total ou parcialmente, sem autorização prévia e expressa do autor.
-
-## Créditos
-
-A ideia inicial do Centraliza foi discutida com Gabriel Henrique Lambiasi, que também contribuiu com um protótipo inicial da interface. O desenvolvimento da aplicação, incluindo back-end, front-end, banco de dados, segurança, testes, documentação e automação, foi realizado por Rafael Pacheco.
