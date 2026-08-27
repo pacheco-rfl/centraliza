@@ -195,7 +195,7 @@ Recursos disponíveis:
 * documentos anexados;
 * visualização de PDF.
 
-![Painel de Call Backs](docs/screenshots/callback.png)
+![Painel de Call Backs](docs/screenshots/callback-panel.png)
 
 ---
 
